@@ -23,4 +23,4 @@ async def on_message(message):
     if message.content.startswith("!선린"):
         await message.channel.send("게시물 제목 : " + tag, tts = True)
 
-client.run("ODEzODI2MTExMjU0NDI5NzY3.YDU8oQ.vKVyy-NbSJNA8KdxbP-gRraoPGw")
+client.run(" ")
